@@ -33,4 +33,25 @@ github "sudo",       "1.0.0"
 
 # Optional/custom modules. There are tons available at
 # https://github.com/boxen.
+#
+# Development Environment
 github "iterm2", "1.0.2"
+github "sublime_text_2", "1.1.0"
+github "java", "1.1.0"
+github "property_list_key", "0.1.0"
+github "osx", "1.1.0"
+github "zsh", "1.0.0"
+
+# Consumer Apps
+github "airfoil", "0.0.1"
+github "skitch", "1.0.0"
+github "skype", "1.0.2"
+github "notational_velocity", "1.1.0"
+github "crashplan", "1.0.1"
+github "rdio", "1.0.0"
+github "chrome", "1.1.0"
+
+# Servers
+github "mysql", "1.1.0"
+github "mongodb", "1.0.0"
+github "memcached", "1.2.0"
