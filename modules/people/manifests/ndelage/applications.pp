@@ -5,6 +5,8 @@ class people::ndelage::applications {
   include zsh
   include sublime_text_2
   include java
+  include xquartz
+  include imagemagick
 
   # Consumer Apps
   include airfoil
