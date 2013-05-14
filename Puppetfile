@@ -52,6 +52,9 @@ github "notational_velocity", "1.1.0"
 github "crashplan", "1.0.1"
 github "rdio", "1.0.0"
 github "chrome", "1.1.0"
+github "kindle", "1.0.1"
+github "calibre", "1.0.1", :repo => "ndelage/puppet-calibre"
+github "spectacle", "1.0.1", :repo => "jhubert/puppet-spectacle"
 
 # Servers
 github "mysql", "1.1.0"

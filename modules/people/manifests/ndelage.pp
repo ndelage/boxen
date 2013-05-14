@@ -1,5 +1,6 @@
 class people::ndelage {
   include people::ndelage::applications
+  #include people::ndelage::nginx
 
   # System config
   include osx::global::disable_key_press_and_hold

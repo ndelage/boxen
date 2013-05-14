@@ -16,6 +16,9 @@ class people::ndelage::applications {
   include crashplan
   include rdio
   include chrome
+  include kindle
+  include calibre
+  include spectacle
 
   # Servers
   include mongodb
