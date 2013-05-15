@@ -15,4 +15,7 @@ class people::ndelage {
   class { 'osx::global::key_repeat_rate':
     rate => 0
   }
+
+  # Set the global version of Node
+  class { 'nodejs::global': version => 'v0.10.5' }
 }
