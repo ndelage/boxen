@@ -43,6 +43,7 @@ github "osx", "1.1.0"
 github "zsh", "1.0.0"
 github "xquartz", "1.1.0"
 github "imagemagick", "1.2.0"
+github "sysctl", "1.0.0"
 
 # Consumer Apps
 github "airfoil", "0.0.1"
@@ -60,3 +61,4 @@ github "spectacle", "1.0.1", :repo => "jhubert/puppet-spectacle"
 github "mysql", "1.1.0"
 github "mongodb", "1.0.0"
 github "memcached", "1.2.0"
+github "postgresql", "1.0.0"

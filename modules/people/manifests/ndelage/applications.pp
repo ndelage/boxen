@@ -25,5 +25,7 @@ class people::ndelage::applications {
   include mysql
   mysql::db { 'mydb': }
   include memcached
+  include postgresql
+  include sysctl
 
 }
