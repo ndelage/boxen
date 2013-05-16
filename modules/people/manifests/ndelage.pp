@@ -18,4 +18,9 @@ class people::ndelage {
 
   # Set the global version of Node
   class { 'nodejs::global': version => 'v0.10.5' }
+
+  git::config::global {
+    'user.name': value => "Nate Delage";
+    'user.email': value => "nate@natedelage.com";
+  }
 }
